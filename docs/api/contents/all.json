@@ -72,20 +72,6 @@
     },
     {
       "content": null,
-      "created": "2026-06-12T00:21:00.984787Z",
-      "format": null,
-      "hash": null,
-      "hash_algorithm": null,
-      "last_modified": "2026-06-12T00:21:00.984787Z",
-      "mimetype": null,
-      "name": "\ucc38\uace0\ud30c\uc77c.ipynb",
-      "path": "\ucc38\uace0\ud30c\uc77c.ipynb",
-      "size": 5932,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
       "created": "2026-06-12T00:21:00.982313Z",
       "format": null,
       "hash": null,
@@ -100,11 +86,11 @@
     },
     {
       "content": null,
-      "created": "2026-06-12T00:21:32.062527Z",
+      "created": "2026-06-12T00:35:55.885635Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-06-12T00:21:32.064803Z",
+      "last_modified": "2026-06-12T00:35:55.887758Z",
       "mimetype": null,
       "name": "data",
       "path": "data",
@@ -113,11 +99,11 @@
       "writable": true
     }
   ],
-  "created": "2026-06-12T00:21:32.062445Z",
+  "created": "2026-06-12T00:35:55.885597Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-06-12T00:21:32.066297Z",
+  "last_modified": "2026-06-12T00:35:55.889850Z",
   "mimetype": null,
   "name": "",
   "path": "",
